@@ -83,5 +83,13 @@ Built a web-based CRUD system using PHP & MySQL with multi-item transaction hand
 
 ---
 
+### Github Statistic
+<p align="left">
+<a href="https://github.com/hnsprojects785">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hnsprojects785&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hnsprojects785&layout=compact&theme=algolia"/>
+</a>
+</p>
+
 ⭐ “Mathematics is not only about numbers, but about structured thinking and optimal decision-making.”
 
